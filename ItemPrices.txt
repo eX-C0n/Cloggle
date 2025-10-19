@@ -29,7 +29,7 @@ alchemical_hydra:
   Hydra leather: 11740402,
   Hydras claw: 59816666.5,
 
-all_pets:
+all_pets (renamed skilling_pets):
   Chompy chick: 0,
   Heron: 0,
   Rock golem: 0,
