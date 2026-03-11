@@ -1192,17 +1192,17 @@ obor:
  Hill giant club: 1240851.5,
 
 ocean_encounters:
- Tiny pearl: 300,
- Small pearl: 600,
- Shiny pearl: 3000,
- Bright pearl: 6000,
- Big pearl: 15000,
- Huge pearl: 30000,
- Enormous pearl: 60000,
- Shimmering pearl: 150000,
- Glistening pearl: 300000,
- Brilliant pearl: 600000,
- Radiant pearl: 1500000,
+ Tiny pearl: 0,
+ Small pearl: 0,
+ Shiny pearl: 0,
+ Bright pearl: 0,
+ Big pearl: 0,
+ Huge pearl: 0,
+ Enormous pearl: 0,
+ Shimmering pearl: 0,
+ Glistening pearl: 0,
+ Brilliant pearl: 0,
+ Radiant pearl: 0,
 
 pest_control:
  Void knight top: 0,
@@ -1337,14 +1337,14 @@ scurrius:
 sea_treasures:
  Medallion fragment: 0,
  Sailors amulet inert: 0,
- Rusty locket: 5000,
- Mouldy block: 5000,
- Dull knife: 5000,
- Broken compass: 10000,
- Rusty coin: 10000,
- Broken sextant: 10000,
- Mouldy doll: 15000,
- Smashed mirror: 15000,
+ Rusty locket: 0,
+ Mouldy block: 0,
+ Dull knife: 0,
+ Broken compass: 0,
+ Rusty coin: 0,
+ Broken sextant: 0,
+ Mouldy doll: 0,
+ Smashed mirror: 0,
 
 shades_of_mortton:
  Zealots robe top: 0,
@@ -1841,3 +1841,4 @@ zulrah:
  Magic fang: 3815133.5,
  Serpentine visage: 3908780.5,
  Tanzanite fang: 10806607.5,
+
